@@ -25,6 +25,19 @@ body{
 .btn:hover {
   background-color:darkorange;
 }
+.message {
+  padding: 15px 40px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+}
+
+.message:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
 .header {
     background-color:pink;
     height:100px;
@@ -53,3 +66,4 @@ title{
   color: aliceblue;
   padding: 20px;
 }
+
