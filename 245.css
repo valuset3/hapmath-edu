@@ -7,14 +7,22 @@ body {
   padding: 0;
   font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", メイリオ, Meiryo, "ＭＳ Ｐゴシック", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: #e6e6e6;
+  line-height: 200%;
+  font-size: 20px;
 }
 h1 {
     color: red;
     float:left;
     margin: 0;padding: 0;
-    font-size: 20px;
+    font-size: 32px;
 }
-
+.counter{
+  font-size: 12px;
+}
+.contents-item{
+  font-size: 24px;
+  line-height: 200%;
+}
 #nav-drawer {
   position: relative;
 }
@@ -156,18 +164,5 @@ footer{
   }
   footer{
     text-align:center;
-  }
-  .seitamentai{
-    position: relative;
-    width:95%;
-    height:0;
-    padding-top: 80%;
-  }
-  .seitamentai iframe{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 95%;
-    height: 100%;
   }
 }
