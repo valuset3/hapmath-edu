@@ -186,10 +186,10 @@ title{
 }
 
 footer{
-  height: 80px;
+  height: 120px;
   background-color: darkblue;
   color: aliceblue;
-  padding: 20px;
+  padding: 5px;
 }
 
 @media (max-width: 670px) {
