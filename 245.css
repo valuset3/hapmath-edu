@@ -40,7 +40,7 @@ h1 {
   position: relative;
 }
 
-/*チェックボックス等は非表示に*/
+/*チェックボックス等は非表示に！*/
 .nav-unshown {
   display:none;
 }
